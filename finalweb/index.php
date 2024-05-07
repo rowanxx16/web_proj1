@@ -121,7 +121,7 @@ if (isset($_SESSION["user_id"])){
                     <p> Networks and Communication Department<br>
                         Imam abdulrahman Bin Faisal University
                         Dhahran, Saudi Arabia
-                        21@iau.edu.sa
+                        210002877@iau.edu.sa
                         </p>
                 </div>
             </div>
