@@ -73,62 +73,62 @@ if (isset($_SESSION["user_id"])){
             <div class="feature">
                 <div class="feature-box">
                     <i class="fa-solid fa-code"></i>
-                    <h3>Asma Faleh AlAnazi</h3>
+                    <h3>Rowan Mahmoud</h3>
                     <p> Networks and Communication 
                         Department <br>
                         Imam abdulrahman Bin Faisal University
-                        Dammam, Saudi Arabia
-                        2200003137@iau.edu.sa</p>
+                        Dhahran, Saudi Arabia
+                        2210009126@iau.edu.sa</p>
                 </div>
             </div>
             <div class="feature">
                 <div class="feature-box">
                     <i class="fa-solid fa-code"></i>
-                    <h3>Lama Abdullah Alqahtani</h3>
+                    <h3>Fatimah Saeed Aqaqah</h3>
                     <p> Networks and Communication Department<br>
                         Imam abdulrahman Bin Faisal University
-                        Dhahran, Saudi Arabia
-                        2200004226@iau.edu.sa
+                        Dammam, Saudi Arabia
+                        2210003507@iau.edu.sa
                         </p>
                 </div>
             </div>
             <div class="feature">
                 <div class="feature-box">
                     <i class="fa-solid fa-code"></i>
-                    <h3>Nouf Ibrahim Alzahrani</h3>
+                    <h3>Sara Khaled Alnatah</h3>
                     <p>Networks and Communication 
                         Department<br>
                         Imam abdulrahman Bin Faisal University
                         Dammam, Saudi Arabia
-                        2200004376@iau.edu.sa
+                        2210002870@iau.edu.sa
                         </p>
                 </div>
             </div>
             <div class="feature">
                 <div class="feature-box">
                     <i class="fa-solid fa-code"></i>
-                    <h3>Nouf Saeed Alshahrani</h3>
+                    <h3>Fatimah Nizar Alfilfil</h3>
                     <p> Networks and Communication Department<br>
                         Imam abdulrahman Bin Faisal University
                         Dammam, Saudi Arabia
-                        2190001231@iau.edu.sa</p>
+                        2210003088@iau.edu.sa</p>
                 </div>
             </div>
             <div class="feature">
                 <div class="feature-box">
                     <i class="fa-solid fa-code"></i>
-                    <h3>Samar Ali Alqahtani</h3>
+                    <h3>Jana Almutairy</h3>
                     <p> Networks and Communication Department<br>
                         Imam abdulrahman Bin Faisal University
                         Dhahran, Saudi Arabia
-                        2190002612@iau.edu.sa
+                        21@iau.edu.sa
                         </p>
                 </div>
             </div>
             <div class="feature">
                 <div class="feature-box">
                     <i class="fa-solid fa-code"></i>
-                    <h3>Ms.Maryam Aldossary</h3>
+                    <h3>Ms.Sammar</h3>
                     <p>supervisor</p>
                 </div>
             </div>
